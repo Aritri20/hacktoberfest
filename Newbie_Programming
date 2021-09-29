@@ -3,11 +3,29 @@
 <html>
 <head>
 	<title>I'm a newbie, but I trust I'll become an expert!!</title>
+	<style>
+	h1
+	{
+	color:red;
+	}
+	h3
+	{
+	color:blue;
+	}
+	h4
+	{
+	color:pink;
+	}
+	h6
+	{
+	color:coral;
+	}
+	</style>
 </head>
 <body>
-<h1> >> I believe!!! << </h1>
-<h6> You definitely will! <h6>
+<h1>  I believe in myself!!! </h1>
+<h6> I definitely will succeed! <h6>
 <h4>and I will be</h4>
-<h3>or not to be</h3>
+<h3>trying y best</h3>
 </body>
 </html>
